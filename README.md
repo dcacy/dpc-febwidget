@@ -76,3 +76,19 @@ Upload your edited `custom.js` file to the server, and refresh the page. Click o
 and then click Create Widget.  Find the new FEB Widget and add it as in the screen shot below.
 
 ![Add Widget](http://github.ibm.com/dcacy/dpc-febwidget/raw/master/images/add_widget.png)
+
+The widget should be automatically added to the page. Hover your cursor over the top right corner
+of the new widget and click on the hamburger menu which appears, as in the screen shot below.
+
+![Edit Widget](http://github.ibm.com/dcacy/dpc-febwidget/raw/master/images/edit_widget.png)
+
+If you did everything correctly, you should be able to configure the widget. Type a few characters
+into the Form Name field (characters which you know are in at least one form name in FEB) and look
+for results.  Provide a height for the form, and optionally customize the widget title. Click Save
+when you are satisfied with your results, as in the screen shot below.
+
+![Customize Widget](http://github.ibm.com/dcacy/dpc-febwidget/raw/master/images/customize_widget.png)
+
+You should see your form render in the widget!
+
+![Final result](http://github.ibm.com/dcacy/dpc-febwidget/raw/master/images/final.png)
