@@ -87,7 +87,7 @@ into the Form Name field (characters which you know are in at least one form nam
 for results.  Provide a height for the form, and optionally customize the widget title. Click Save
 when you are satisfied with your results, as in the screen shot below.
 
-![Customize Widget](http://github.ibm.com/dcacy/dpc-febwidget/raw/master/images/customize_widget.png)
+![Configure Widget](http://github.ibm.com/dcacy/dpc-febwidget/raw/master/images/configure_widget.png)
 
 You should see your form render in the widget!
 
